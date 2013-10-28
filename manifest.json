@@ -8,6 +8,7 @@
   "content_scripts": [
     {
       "matches": ["*://*.github.com/*/*/network"],
+      "js": ["network-graph.js"],
       "css": ["network-graph.css"]
     }
   ],

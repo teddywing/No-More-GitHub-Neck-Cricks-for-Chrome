@@ -5,11 +5,11 @@ A Google Chrome browser extension that rotates the [GitHub](https://github.com) 
 
 
 # Installing
-To install the extension, open the Extensions window in Chrome and click 'Load unpacked extension…". In the file browser select the directory of this project.
+To install the extension, open the Extensions window in Chrome and click “Load unpacked extension…”. In the file browser select the directory of this project.
 
 
 # Help! Mouse-dragging is all weird!
-The graph may be rotated, but the controls aren't. Here's a handy translation key.
+The graph may be rotated, but the controls aren’t. Here's a handy translation key.
 
 ## Mouse dragging
 * UP: graph moves RIGHT

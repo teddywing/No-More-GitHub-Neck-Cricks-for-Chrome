@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "No More GitHub Neck Cricks",
+  "description": "Rotates the GitHub Network Graph into a vertical orientation",
+  "version": "0.0.1",
+  
+  "content_scripts": [
+    {
+      "matches": ["*://*.github.com/*/*/network"],
+      "css": ["network-graph.css"]
+    }
+  ],
+  
+  "permissions": [
+    "*://*.github.com/"
+  ]
+}

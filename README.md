@@ -12,16 +12,16 @@ To install the extension, open the Extensions window in Chrome and click 'Load u
 The graph may be rotated, but the controls aren't. Here's a handy translation key.
 
 ## Mouse dragging
-UP: graph moves RIGHT
-DOWN: graph moves LEFT
-LEFT: graph moves UP
-RIGHT: graph moves DOWN
+* UP: graph moves RIGHT
+* DOWN: graph moves LEFT
+* LEFT: graph moves UP
+* RIGHT: graph moves DOWN
 
 ## Arrow keys (keyboard)
-UP: graph moves LEFT
-DOWN: graph moves RIGHT
-LEFT: graph moves UP
-RIGHT: graph moves DOWN
+* UP: graph moves LEFT
+* DOWN: graph moves RIGHT
+* LEFT: graph moves UP
+* RIGHT: graph moves DOWN
 
 
 # License
